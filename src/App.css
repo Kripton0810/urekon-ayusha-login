@@ -107,3 +107,19 @@ padding-right: 20px;
   font-size: 1.7rem;
   text-shadow: 2px 2px 0px #61dafb;
 }
+.login-btn
+{
+  margin: 10px auto;
+  font-family: 'ibm-pxel-sans';
+  text-transform: uppercase;
+  width: 181px;
+  height: 50px;
+  background: url(./images/login\ button.svg);
+  background-size: cover;
+  border: 0;
+  outline: none;
+  color: white;
+  font-style: normal;
+font-weight: 500;
+font-size: 20px;
+}
